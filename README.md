@@ -2,7 +2,7 @@
 
 O Portal de Notícias é uma aplicação web simples, projetada para exibir manchetes, destaques e as principais notícias da semana. Com um design moderno, oferece uma experiência de navegação intuitiva e acessível para os usuários.
 
-<img src="https://github.com/user-attachments/assets/994a0da7-a41b-465b-bb74-0e4929b1932e" width="800px">
+<img src="/assets/images/image-1.png" width="650px" height="auto">
 
 ## Funcionalidades
 
@@ -14,7 +14,7 @@ O Portal de Notícias é uma aplicação web simples, projetada para exibir manc
 
 - Design moderno com elementos visuais atraentes.
 
-<img src="https://github.com/user-attachments/assets/599eb766-b994-4181-81e1-b54fd4998072" width="800px">
+<img src="/assets/images/image-2.png" width="650px" height="auto">
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura do site.
