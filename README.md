@@ -19,6 +19,7 @@ O Portal de Notícias é uma aplicação web simples, projetada para exibir manc
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura do site.
 - **CSS3**: Estilo e layout.
+- **Git**: Controle de versão para gerenciamento do código-fonte.
 - **Google Fonts**: Tipografias personalizadas.
 
 ## Sobre o Projeto
