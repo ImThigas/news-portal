@@ -26,4 +26,4 @@ O Portal de Notícias é uma aplicação web simples, projetada para exibir manc
 Este projeto foi desenvolvido como parte do curso **Fullstack** da **Rocketseat**.
 
 ## Contribuições
-Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests. Caso tenha sugestões ou encontre algum problema, abra uma issue no repositório.io.
+Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests. Caso tenha sugestões ou encontre algum problema, abra uma issue no repositório.
